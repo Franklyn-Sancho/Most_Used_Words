@@ -2,7 +2,7 @@
 
 Sabe aquele meme "hoje eu vou dormir cedo"? Então, não estou querendo diminuir o meu aplicativo, afinal ele é maravilhoso, mas as vezes nos vem aquelas duvidas e curiosidades que não tem sentido algum, né? Ok, pode até ser que a função deste aplicativo seja útil para alguém ou para alguma coisa, eu, por exemplo, amo desvendar essas curiosidades fora de contexto. Eu sei, deveria ter pensado numa propaganda antes de escrever esse Readme. Mas é como dizem: "A imaginação não tem limites". 
 
-Sem perder mais tempo falando das curiosidades da mente humana, este aplicativo tem a função maravilhosa de contar e mostrar quais foram as palavras mais usadas em legendas de filmes e séries (inclusive o número de vezes que aparecem). Imagina que você tá lá de boas deitado na sua cama e pensa: "Quais serão as palavras mais faladas no filme a lagoa azul?". Basta rodar esse aplicativo, baixar a legenda e, "tcharam", lá estão as palavras e o número de vezes que apareceram. 
+Sem perder mais tempo falando das curiosidades da mente humana, este aplicativo tem a função maravilhosa de contar e mostrar quais foram as palavras mais usadas em legendas de filmes e séries (inclusive o número de vezes que aparecem). Imagina que você tá lá de boas deitado na sua cama e pensa: "Quais são as palavras mais faladas no filme a lagoa azul?". Basta rodar esse aplicativo, baixar a legenda e, "tcharam", lá estão as palavras e o número de vezes que apareceram. 
 
 ### Imagem da aplicação :camera:
 

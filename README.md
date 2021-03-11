@@ -11,7 +11,7 @@ Sem perder mais tempo falando das curiosidades da mente humana, este aplicativo 
 
 ### Tecnologias usadas na construção :hammer::
 
-![Badge](https://img.shields.io/static/v1?label=vue&message=framework&color=green&style=for-the-badge&logo=vueJS)
+![Badge](https://img.shields.io/static/v1?label=vue.js&message=framework&color=green&style=for-the-badge&logo=vue.js)
 ![Badge](https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
 ![Badge](https://img.shields.io/static/v1?label=vuetify&message=framework&color=blue&style=for-the-badge&logo=VUETIFY)
 ![Badge](https://img.shields.io/static/v1?label=electron&message=framework&color=darkblue&style=for-the-badge&logo=ELECTRON)
